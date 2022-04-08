@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+}
+
+.card-principal {
+  background: url("../assents/backgorund.png");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 200px;
+  background-size: cover;
+  margin: auto;
+  margin-top: 100px;
+  padding: 1px 20px;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.instagram {
+  list-style-image: url("../assents/Insta.png");
+}
+
+.twitter {
+  list-style-image: url(../assents/Twitter.png);
+}
+
+.youtube {
+  list-style-image: url("../assents/Youtube.png");
+}
